@@ -1,1 +1,1 @@
-# Semestr-ln-projekt-C
+# Semestalni-ln-projekt-C
