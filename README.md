@@ -1,4 +1,4 @@
-# Mini DJ – Správa hudební knihovny a generování mixtapu (C)
+# Mini DJ – Správa hudební knihovny a generování mixtapu
 
 Konzolová aplikace v jazyce C pro správu hudební knihovny a automatické generování DJ mixtapu.
 Mixtape se skládá podle Camelot systému tónin (1–12) pomocí jednoduchého „random walk“ algoritmu.
