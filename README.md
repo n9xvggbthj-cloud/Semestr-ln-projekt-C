@@ -21,8 +21,5 @@ Skladba je uložená jako struktura `Song` (název, interpret, žánr, tónina, 
 - Pokud chybí vhodná skladba, rozšíří hledání do větší vzdálenosti
 - Pokud je zadaná cílová skladba (end), ve většině případů se preferuje směr k její tónině
 
-## Spuštění
-Zkompiluj a spusť podle svého prostředí (Makefile/IDE). Program běží jako textové menu v konzoli.
-
 ## Autor
 Jan Jakoubek
